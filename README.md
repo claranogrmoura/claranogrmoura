@@ -10,15 +10,14 @@
   <a href="www.linkedin.com/in/clara-nogueira-a2391435b" taget"_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
  <a href="mailto:claranogueirarm@gmail.com" targey="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a> &nbsp;
 </div>
-<div align="center">
+<div>
  <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/claranogrmoura/claranogrmoura/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/claranogrmoura/claranogrmoura/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/claranogrmoura/claranogrmoura/output/github-contribution-grid-snake.svg">
 </picture>
 </div>
-<br>
-<br>
+
 <div align="center">
 <br><p align="centre"><b>Visitantes:</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{claranogrmoura}/count.svg" /></p> 
